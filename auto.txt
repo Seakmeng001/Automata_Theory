@@ -1,0 +1,7 @@
+
+=>ID: 2023
+=>File Name: DFA
+		a	b
+	q0	q1	q0	
+	q1	q2	q1	
+	q2	q2	q2	
